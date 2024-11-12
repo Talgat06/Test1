@@ -4,7 +4,6 @@
     position: absolute;
     left: 250px;
     top: 244px;
-    background-color: white;
 }
 
 .delete {
@@ -27,7 +26,6 @@
 
 .bookList {
     padding: 20px;
-    background-color: #f8f8f8;
 }
 
 ul {
